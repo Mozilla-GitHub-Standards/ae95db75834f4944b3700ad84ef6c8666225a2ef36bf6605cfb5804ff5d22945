@@ -134,10 +134,9 @@ pyyaml==3.13 \
     --hash=sha256:e01d3203230e1786cd91ccfdc8f8454c8069c91bee3962ad93b87a4b2860f537 \
     --hash=sha256:e170a9e6fcfd19021dd29845af83bb79236068bf5fd4df3327c1be18182b2531 \
     # via scriptworker
-requests==2.20.1 \
-    --hash=sha256:65b3a120e4329e33c9889db89c80976c5272f56ea92d3e74da8a463992e3ff54 \
-    --hash=sha256:ea881206e59f41dbd0bd445437d792e43906703fff75ca8ff43ccdb11f33f263 \
-    # via taskcluster
+requests==2.21.0 \
+    --hash=sha256:7bf2a778576d825600030a110f3c0e3e8edc51dfaafe1c146e39a2027784957b \
+    --hash=sha256:502a824f31acdacb3a35b6690b5fbf0bc41d63a24a45c4004352b0242707598e    # via taskcluster
 scriptworker==17.0.0 \
     --hash=sha256:586f729f363790838337db640ff6232fe5ccfc41354420fc0222bdf09b156b11 \
     --hash=sha256:fb91e9949d82ad23a3850cac5a19edb3a61af6f19b7c18a98245a2af2ba91935
