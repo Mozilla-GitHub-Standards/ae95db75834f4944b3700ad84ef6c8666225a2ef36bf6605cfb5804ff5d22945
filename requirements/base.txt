@@ -51,10 +51,9 @@ defusedxml==0.5.0 \
     --hash=sha256:24d7f2f94f7f3cb6061acb215685e5125fbcdc40a857eff9de22518820b0a4f4 \
     --hash=sha256:702a91ade2968a82beb0db1e0766a6a273f33d4616a6ce8cde475d8e09853b20 \
     # via scriptworker
-dictdiffer==0.7.1 \
-    --hash=sha256:6de9370f3c0c7fb5cc8bdc9e10dbca6ff05c39d8e2e58a67eb98d32677a224ca \
-    --hash=sha256:e4f94167d037f70c11c6a8e7e289d81c8c7117bc02132cd82a0ab8fcba43cc08 \
-    # via scriptworker
+dictdiffer==0.7.2 \
+    --hash=sha256:b6eed4cf74ed31ae9646257a9f802bb09e545ca817d5c0119d747b6a05b6a22d \
+    --hash=sha256:cc398dc26600cdb9519b2c768157333a0967b24d64c3913077dd0794274395da    # via scriptworker
 frozendict==1.2 \
     --hash=sha256:774179f22db2ef8a106e9c38d4d1f8503864603db08de2e33be5b778230f6e45 \
     # via scriptworker
